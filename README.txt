@@ -1,8 +1,10 @@
+This was modified from https://github.com/minerva-ml/open-solution-mapping-challenge
+
 Instructions to Run Machine Learning Lab's Solution to the CrowdAI Challenge
 1. Colone this repository
 
 2. In the terminal
-$ cd open-solution-mapping-challenge
+$ cd mapping-challenge
 Then, install requirements using 
 $ pip install -r requirements.txt
 
